@@ -38,14 +38,25 @@ It is now 85 seconds to midnight. Yet the purpose of the clock is not to scare, 
 ## References
 
 American Physical Society. "December 1938: Discovery of Nuclear Fission." APS News 16, no. 11 (December 2007). Accessed April 4, 2026. https://www.aps.org/apsnews/2007/12/december-1938-discovery-nuclear-fission.
+
 Britannica Editors. "Manhattan Project." Encyclopædia Britannica. Accessed April 5, 2026. https://www.britannica.com/event/Manhattan-Project.
+
 Britannica Editors. "Solvay Conferences." Encyclopædia Britannica. Accessed April 4, 2026. https://www.britannica.com/event/Solvay-Conferences.
+
 Bulletin of the Atomic Scientists. "Doomsday Clock." Accessed April 5, 2026. https://thebulletin.org/doomsday-clock.
+
 Bulletin of the Atomic Scientists. "How the Bulletin of the Atomic Scientists Got Its Start." Virtual Tour. Accessed April 4, 2026. https://thebulletin.org/virtual-tour/how-the-bulletin-of-the-atomic-scientists-got-its-start/.
+
 Google Arts & Culture. "3D Periodic Table." Accessed April 2, 2026. https://artsexperiments.withgoogle.com/periodic-table/.
+
 Maltseva, Luna. "Atomic Interactions." Accessed April 5, 2026. https://lunamaltseva.dev/decay.
+
 MIRA Safety. "Project Sundial: The Untold Story of the Biggest Nuclear Bomb." MIRA Safety Blog. Accessed April 6, 2026. https://www.mirasafety.com/blogs/news/project-sundial-the-untold-story-of-the-biggest-nuclear-bomb.
+
 Simpson, Edward C. "Colourful Nuclide Chart." Australian National University, Department of Nuclear Physics and Accelerator Applications. Accessed April 4, 2026. https://people.physics.anu.edu.au/~ecs103/chart/.
+
 US Environmental Protection Agency. "Radioactive Decay." Accessed April 4, 2026. https://www.epa.gov/radiation/radioactive-decay.
+
 Wellerstein, Alex. "NUKEMAP." Nuclear Secrecy. Accessed March 30, 2026. https://nuclearsecrecy.com/nukemap/.
+
 Wikipedia contributors. "Fat Man." Wikipedia: The Free Encyclopedia. Last modified [date varies]. https://en.wikipedia.org/wiki/Fat_Man.
